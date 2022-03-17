@@ -8,3 +8,4 @@ gem "sinatra", "~> 2.2"
 
 gem "rspec", "~> 3.11"
 # test
+gem 'rspec_junit_formatter'
